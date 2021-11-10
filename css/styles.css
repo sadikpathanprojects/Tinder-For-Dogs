@@ -1,0 +1,103 @@
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+}
+.row h1{
+    size: 3rem;
+    line-height: 1.5;
+}
+.container-fluid{
+    padding: 3% 15%;
+    
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.navbar-brand{
+    font-size: 2.5rem;
+}
+.nav-item{
+
+ padding: 0 18px;
+    
+}
+.nav-link{
+    font-size: 1.2rem;
+}
+.download-button{
+margin: 5% 3% 5% 0%;
+}
+
+.title-image{
+    width: 60%;
+    transform: rotate(25deg);
+}
+#features{
+    padding: 7% 5%;
+}
+#features i{
+    font-size: 4rem;
+    color: #ef8172;
+    margin-left: 4rem;
+}
+#features p{
+    color: #8f8f8f;
+}
+.featurebox{
+    text-align: center;
+    padding: 5%;
+}
+#features h3{
+    font-weight: bold;
+}
+#testimonials
+{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+#testimonials h2{
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+.testimonials-image{
+    border-radius: 100%;
+    width: 25%;
+}
+#press
+{
+    background-color: #ef8172 ;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo
+{
+    width:15%;
+    margin: 20px 20px 15px;
+}
+#pricing
+{
+    text-align: center;
+}
+.card-header 
+{
+    background-color: #ff4c68;
+}
+#pricing h2{
+    font-weight: bold;
+}
+
+#cta
+{
+    text-align: center;
+    background-color: #ff4c68;
+    padding: 4% 10%;
+}
+#footer
+{
+    text-align: center;
+    background-color: #ff4c68;
+}
+}
